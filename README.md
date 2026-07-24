@@ -2,7 +2,7 @@
 ### 𝖨𝗇𝗀𝖾𝗇𝗂𝖾𝗋𝖺 𝖽𝖾 𝖢𝖺𝗅𝗂𝖽𝖺𝖽 𝖽𝖾 𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 (𝖰𝖠) | 𝖯𝗋𝗎𝖾𝖻𝖺𝗌 𝖥𝗎𝗇𝖼𝗂𝗈𝗇𝖺𝗅𝖾𝗌 𝗒 𝖽𝖾 𝖠𝖯𝖨𝗌 | 𝖲𝖾𝗅𝖾𝗇𝗂𝗎𝗆, 𝖲𝖰𝖫, 𝖯𝗒𝗍𝗁𝗈𝗇
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Diana%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-silva-qa)
-[![Notion Portfolio Badge](https://img.shields.io/badge/Notion-Diana%20Silva%20%7C%20Quality%20Assurance%20Engineer-000000?style=for-the-badge&logo=notion&logoColor=white)](https://buttered-sushi-89a.notion.site)
+[![Notion Portfolio Badge](https://img.shields.io/badge/Notion-Diana%20Silva%20%7C%20Quality%20Assurance%20Engineer-000000?style=for-the-badge&logo=notion&logoColor=white)](https://buttered-sushi-89a.notion.site/Diana-Silva-Quality-Assurance-Engineer-32707f2bf62780859c93c504b6b670b3?source=copy_link)
 
 ---
 
@@ -29,7 +29,7 @@ Ingeniera QA con un fuerte enfoque analítico, especializada en la detección y 
 
 ## 💻 𝖱𝖾𝗉𝗈𝗌𝗂𝗍𝗈𝗋𝗂𝗈𝗌 𝗒 𝖯𝗋𝗈𝗒𝖾𝖼𝗍𝗈𝗌 𝖣𝖾𝗌𝗍𝖺𝖼𝖺𝖽𝗈𝗌
 
-> *A continuación presento los proyectos y repositorios clave que respaldan mi experiencia práctica. Puedes consultar el detalle metodológico en mi portafolio interactivo de Notion: **[Diana Silva | Quality Assurance Engineer](https://buttered-sushi-89a.notion.site)***
+> *A continuación presento los proyectos y repositorios clave que respaldan mi experiencia práctica. Puedes consultar el detalle metodológico en mi portafolio interactivo de Notion: **[Diana Silva | Quality Assurance Engineer](https://buttered-sushi-89a.notion.site/Diana-Silva-Quality-Assurance-Engineer-32707f2bf62780859c93c504b6b670b3?source=copy_link)***
 
 ### 🚘 [Urban Routes | Suite de Automatización de Pruebas](https://github.com/DianaSilvaQA/qa-project-Urban-Routes-es) 👈 *(Ver Repositorio)*
 * **Objetivo:** Automatización de pruebas de principio a fin (End-to-End) para el flujo completo de reserva de taxi (tarifa, teléfono, pago y conductor).
@@ -48,14 +48,15 @@ Ingeniera QA con un fuerte enfoque analítico, especializada en la detección y 
 
 ---
 
-## 📊 𝖬𝗂𝗌 𝖤𝗌𝗍𝖺𝖽í𝗌𝗍𝗂𝖼𝖺𝗌 𝖾𝗇 𝖦𝗂𝗍𝖖𝗎𝖻
+## 📊 𝖬𝗂𝗌 𝖤𝗌𝗍𝖺𝖽í𝗌𝗍𝗂𝖼𝖺𝗌 𝖾𝗇 𝖦𝗂𝗍H𝗎𝖻
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DianaSilvaQA&show_icons=true&theme=tokyonight" alt="Diana's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianaSilvaQA&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 📫 **¿Hablamos de Calidad de Software o Datos?** 
-¡Conectemos a través de mi [Perfil de LinkedIn](https://www.linkedin.com/in/diana-silva-qa) o explora mis casos de estudio detallados en [Diana Silva | Quality Assurance Engineer](https://buttered-sushi-89a.notion.site)!
+¡Conectemos a través de mi [Perfil de LinkedIn](https://www.linkedin.com/in/diana-silva-qa) o explora mis casos de estudio detallados en [Diana Silva | Quality Assurance Engineer](https://buttered-sushi-89a.notion.site/Diana-Silva-Quality-Assurance-Engineer-32707f2bf62780859c93c504b6b670b3?source=copy_link)!
