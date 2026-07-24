@@ -2,7 +2,7 @@
 ### 𝖨𝗇𝗀𝖾𝗇𝗂𝖾𝗋𝖺 𝖽𝖾 𝖢𝖺𝗅𝗂𝖽𝖺𝖽 𝖽𝖾 𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 (𝖰𝖠) | 𝖯𝗋𝗎𝖾𝖻𝖺𝗌 𝖥𝗎𝗇𝖼𝗂𝗈𝗇𝖺𝗅𝖾𝗌 𝗒 𝖽𝖾 𝖠𝖯𝖨𝗌 | 𝖲𝖾𝗅𝖾𝗇𝗂𝗎𝗆, 𝖲𝖰𝖫, 𝖯𝗒𝗍𝗁𝗈𝗇
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Diana%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-silva-qa)
-[![Notion Portfolio Badge](https://img.shields.io/badge/Notion-Diana%20Silva%20%7C%20Quality%20Assurance%20Engineer-000000?style=for-the-badge&logo=notion&logoColor=white)](https://buttered-sushi-89a.notion.site/Diana-Silva-Quality-Assurance-Engineer-32707f2bf62780859c93c504b6b670b3?source=copy_link)
+[![Notion Portfolio Badge](https://img.shields.io/badge/Notion-Mi%20Portafolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://buttered-sushi-89a.notion.site/Diana-Silva-Quality-Assurance-Engineer-32707f2bf62780859c93c504b6b670b3?source=copy_link)
 
 ---
 
